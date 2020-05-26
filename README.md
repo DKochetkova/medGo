@@ -1,6 +1,6 @@
 # medGo
 
-medGo_APp
+medGo_app
 
 ## Getting Started
 
